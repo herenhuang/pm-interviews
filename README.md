@@ -29,8 +29,8 @@ And much more.
 
 In addition, we run **visual tests** with headless browsers on multiple resolutions, to make sure you're getting pixel-perfect code.
 
-Again, **our code is not perfect** yet. As you will see in this repo,
-but the fact that it is 10x faster to build products is mind-blowing.
+Again, **our code is not perfect** yet, as you will see in this repo.<br>
+However, the fact that it is **10x faster to build products is mind-blowing** for everyone building an MVP, POC or even a demo.
 
 ## How to run this code
 In Terminal, go into the project's folder, then -
