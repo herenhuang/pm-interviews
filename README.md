@@ -7,7 +7,7 @@ TL;DR: Back in 2018, when our YC interview was scheduled, we built an app to hel
 
 More tips on how to get into YCombinator are [available here](https://medium.com/@avishic/how-to-nail-your-yc-interview-e3a4d12871f3).
 
-![](https://animaapp.s3.amazonaws.com/sample-files/yc-prep/yc-prep-cover.png)
+[![](https://animaapp.s3.amazonaws.com/sample-files/yc-prep/yc-prep-cover.png)](https://yc-prep.netlify.app)
 
 ## So what is this code?
 **Most of the code was written automatically with [Anima](https://www.animaapp.com), given a Figma design.**
