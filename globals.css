@@ -1,0 +1,41 @@
+@import url("https://cdnjs.cloudflare.com/ajax/libs/meyer-reset/2.0/reset.min.css");
+@import url("https://fonts.googleapis.com/css?family=Inter:400,700");
+/* The following line is used to anonymously measure usage of this code in production. */
+@import url("https://px.animaapp.com/62275cb427d37f021fe2e1a2.5ea5489c108248a76bff5d92.fW6jAxi.rcp.png");
+
+.screen {
+  min-width: 100vw;
+  min-height: 100vh;
+  -webkit-font-smoothing: antialiased;
+  -webkit-text-size-adjust: none;
+  box-sizing: border-box;
+  line-height: normal;
+}
+
+.screen a {
+  display: contents;
+  text-decoration: none;  
+}
+
+.container-center-horizontal {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  pointer-events: none;
+  width: 100%;
+}
+
+.container-center-horizontal > * {
+  flex-shrink: 0;
+  pointer-events: auto;
+}
+
+.valign-text-middle {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+* {
+  box-sizing: border-box;
+}
