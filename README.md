@@ -41,6 +41,13 @@ npm start
 Open [http://localhost:1234](http://localhost:1234).
 
 ## How to deploy to netlify
+
+### One click
+
+[![](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/AnimaApp/yc-prep)
+
+### Manual
+
 If you don't have netlify:
 ```
 npm install netlify-cli -g 
