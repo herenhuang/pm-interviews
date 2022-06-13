@@ -2,7 +2,7 @@ import React, { useState, useEffect } from "react";
 import "./Timer.css";
 
 function Timer(props) {
-  const {initialSeconds = 30, index = 0} = props;
+  const {initialSeconds = 60, index = 0} = props;
   const [seconds, setSeconds ] = useState(initialSeconds);
 
   const reset = () => {    
