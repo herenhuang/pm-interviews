@@ -20,7 +20,7 @@ function SocialFooter() {
           <img className="medium-logo-white" src="/img/icons8-linkedin-2-50.png" />
         </a>
         <a href="https://www.youtube.com/channel/UC3XmSQsq-WfrwWTNf0Ch2kQ" target="_blank">
-          <img className="ma-logo-white" src="/img/icons8-youtube-50.png" />
+          <img className="ma-logo-white" src="/img/icons8-youtube-logo-50.png" />
         </a>
       </div>
     </div>
