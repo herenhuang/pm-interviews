@@ -28,9 +28,10 @@ function App() {
               <React.Fragment>
                 Practice your answers for your first Product Management role.
                 <br />
-                Say your answers out loud - it makes it more real!
+                Say your answers out loud - it makes it more real.
                 <br />
-                Let us know how your interview goes!
+                <br />
+                Let us know how your interviews go!
               </React.Fragment>
             }
             mainButtonProps={welcomeScreenData.mainButtonProps}
