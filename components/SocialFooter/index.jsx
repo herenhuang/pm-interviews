@@ -19,8 +19,8 @@ function SocialFooter() {
         <a href="https://linkedin.com/company/joincolab" target="_blank">
           <img className="medium-logo-white" src="/img/icons8-linkedin-2-50.png" />
         </a>
-        <a href="https://www.youtube.com/channel/UC3XmSQsq-WfrwWTNf0Ch2kQ" target="_blank">
-          <img className="ma-logo-white" src="/img/icons8-youtube-logo-50.png" />
+        <a href="https://https://www.instagram.com/joincolab_io/" target="_blank">
+          <img className="ma-logo-white" src="/img/icons8-instagram-logo-50.png" />
         </a>
       </div>
     </div>
