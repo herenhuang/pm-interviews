@@ -13,7 +13,7 @@ function WelcomeScreen(props) {
       <div className="welcome-screen screen">
         <div className="title-2 inter-bold-white-32px">{title}</div>
         <p className="subtitle">{subtitle}</p>
-        <MainButton className="main-button-1" onClick={()=> history.push("/question-screen")}>Start</MainButton>
+        <MainButton className="main-button-1" onClick={()=> history.push("/question-screen")}>Start interview!</MainButton>
         <SocialFooter />
       </div>
     </div>
