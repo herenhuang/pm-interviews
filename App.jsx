@@ -19,16 +19,16 @@ function App() {
           <WelcomeScreen
             title={
               <React.Fragment>
-                YC Interview
+                Product Management
                 <br />
-                Preperation
+                Mock Interview Prep
               </React.Fragment>
             }
             subtitle={
               <React.Fragment>
-                Practice your story &amp; numbers,
+                Practice your answers for your first Product Management role.
                 <br />
-                get ready to a 10 minute interview.
+                Be sure to speak out loud - it makes it more real!
               </React.Fragment>
             }
             mainButtonProps={welcomeScreenData.mainButtonProps}
@@ -41,7 +41,7 @@ function App() {
 
 export default App;
 const timerData = {
-    text: "30",
+    text: "60",
 };
 
 const mainButton1Data = {
@@ -54,7 +54,7 @@ const questionScreenData = {
 };
 
 const mainButton2Data = {
-    children: "Start",
+    children: "Begin interview.",
 };
 
 const welcomeScreenData = {
