@@ -20,7 +20,7 @@ function SocialFooter() {
           <img className="medium-logo-white" src="/img/icons8-linkedin-2-50.png" />
         </a>
         <a href="https://https://www.instagram.com/joincolab_io/" target="_blank">
-          <img className="ma-logo-white" src="/img/icons8-instagram-logo-50.png" />
+          <img className="ma-logo-white" src="/img/icons8-instagram-50.png" />
         </a>
       </div>
     </div>
