@@ -39,7 +39,7 @@ function QuestionScreen(props) {
       <div className="question-screen screen">
         <h1 className="title valign-text-middle inter-bold-white-32px">{question}</h1>
         <Timer initialSeconds={30} index={questionIndex} />
-        <MainButton onClick={() => next()}>Next</MainButton>
+        <MainButton onClick={() => next()}>Next question ~</MainButton>
         <SocialFooter />
       </div>
     </div>
