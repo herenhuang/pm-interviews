@@ -5,13 +5,13 @@ function SocialFooter() {
   return (
     <div className="social-footer">
       <p className="footer-text inter-normal-white-12px">
-        YC Interview preparation
+        Product Manager Mock Interview Prep
         <br />
-        Built with ♥ by Anima, using Anima
+        Built with ♥ ♥ ♥ by Co.Lab
       </p>
       <div className="logo-white-container">        
-        <a href="https://github.com/AnimaApp/yc-prep" target="_blank">
-          <img className="github-logo-white" src="/img/github-logo-white-2@2x.svg" />
+        <a href="https://joincolab.io" target="_blank">
+          <img className="github-logo-white" src="/img/Circle Logo.png" />
         </a>
         <a href="https://www.figma.com/@anima" target="_blank">
           <img className="ma-logo-white" src="/img/figma-logo-white-1@2x.svg" />
